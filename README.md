@@ -187,7 +187,7 @@
     <!-- sayfa ortası-->
     <div class="orta kapsayici">
         <div class="bolum1">
-            <img src="![2](https://user-images.githubusercontent.com/118973159/203764675-6d116eac-9455-4122-a3a8-ec4b06422b3f.png)" width="500" height="600" alt="Kapak resmi">
+            <img src="!(https://user-images.githubusercontent.com/118973159/203764675-6d116eac-9455-4122-a3a8-ec4b06422b3f.png)](http://url/to/img.png)" width="500" height="600" alt="Kapak resmi">
         </div>
         <div align="center" class="bolum2">
             <div class="kutu">
