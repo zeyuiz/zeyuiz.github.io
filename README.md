@@ -1,5 +1,6 @@
 
 
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -187,11 +188,11 @@
     <!-- sayfa ortası-->
     <div class="orta kapsayici">
         <div class="bolum1">
-            <img src="!(https://user-images.githubusercontent.com/118973159/203764675-6d116eac-9455-4122-a3a8-ec4b06422b3f.png)](http://url/to/img.png)" width="500" height="600" alt="Kapak resmi">
+            <img src="2.png" width="500" height="600" alt="Kapak resmi">
         </div>
         <div align="center" class="bolum2">
             <div class="kutu">
-                <img src=![alt text](http://https://www.behance.net/gallery/147600749/Baks/to/img.png) width="150" height="200" alt="">
+                <img src="3.png" width="150" height="200" alt="">
                 <h2>İllüstrasyon</h2>
                 <p>Göz illüstrasyon çizimi</p>
             </div>
@@ -215,7 +216,7 @@
                 <p>Merhaba, ben Zeynep. Fırat Üniversitesi Görsel İletişim Tasarımı Bölümü 4. sınıf öğrencisiyim. Lise eğitimimide Grafik Tasarım Bölümünde tamamladım. Grafik Tasarım alanında 8 yıldır eğitim almaktayım. </p>
             </div>
             <div class="gorsel">
-                <img src="(https://user-images.githubusercontent.com/118973159/203764645-89d82c3a-581b-48f9-aa5f-65ed25c15d85.jpg)" width="300" height="300" alt="İlgili ürün bilgisi">
+                <img src="1.jpg" width="300" height="300" alt="İlgili ürün bilgisi">
             </div>
         </div>
     </div>
