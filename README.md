@@ -191,7 +191,7 @@
         </div>
         <div align="center" class="bolum2">
             <div class="kutu">
-                <img src="3.png" width="150" height="200" alt="">
+                <img src="https://www.behance.net/gallery/147600749/Baks/modules/833799299" width="150" height="200" alt="">
                 <h2>İllüstrasyon</h2>
                 <p>Göz illüstrasyon çizimi</p>
             </div>
